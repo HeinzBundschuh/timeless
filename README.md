@@ -21,6 +21,8 @@ Timeless merges three of my earlier projects – **Endless Calendar Pro**, **tim
   - Drag events to another time or day. Stretch them at the bottom edge, or press and drag in a free spot to draw a new one.
   - **Ctrl/Shift + drag** copies.
   - Drag the **left/right edge** across neighbouring days to copy an event to each of them.
+  - While drawing a new event, also drag **sideways** to create it on several days at once. In month view, press in a day and drag across more days.
+  - Hover over an event and click **×** to delete it (series: this occurrence only).
   - Overlapping events are shown **side by side** or **staggered** (like Etar).
   - If an event lands on busy time, Timeless offers to **move the following events back** (as in the appointment book).
   - Dragging a recurring event asks: **this one**, **this and following**, or **the whole series**.
@@ -41,6 +43,8 @@ Timeless merges three of my earlier projects – **Endless Calendar Pro**, **tim
   - HTML, Markdown, Text and **ICS**
   - All of it built without external libraries.
 - **Print** (Ctrl+P): week, day or month neatly on A4 landscape.
+- **Open .ics files directly:** when installed as an app, Timeless registers for `.ics` files, so double-clicking one opens the import preview. You can also drag a `.ics` file or a JSON backup into the window.
+- **Month view** shows the days of the previous and next month, and you can drag events onto them.
 - **Layers**: show or hide each category, each base plan, holidays, school holidays and full moon. This also applies to exports.
 - **Your data stays with you**
   - in the browser’s storage, plus optionally a **data file** (Chrome/Edge) that is written automatically after every change
@@ -91,6 +95,8 @@ Timeless vereint drei meiner Projekte zu einem Kalender mit moderner Wochenansic
   - Überlappende Termine **nebeneinander** oder **versetzt** (wie Etar).
   - **Nachrücken** bei Überschneidung.
   - Serien wahlweise **nur dieses**, **dieses und folgende** oder **ganze Serie** verschieben.
+  - Beim Aufziehen zusätzlich **seitlich ziehen**: derselbe Termin an mehreren Tagen. Im Monat in einem Tag drücken und über weitere Tage ziehen.
+  - Mit der Maus über einen Termin fahren: **×** löscht ihn (Serie: nur dieses Vorkommen).
 - **Vorlagen & Grundplan**
   - Wochenplan aus Vorlagen, per Ziehen oder Pinsel.
   - Änderungen für **alle Wochen** oder **nur diese Woche**.
@@ -101,6 +107,8 @@ Timeless vereint drei meiner Projekte zu einem Kalender mit moderner Wochenansic
 - **Hinweis mit Farbwelle und Glockenklang**, „5 Min. später“, Systembenachrichtigung.
 - **Export** 📤: PDF (Liste oder Wochenbild), JPG, Word, ODT, Excel, ODS, HTML, Markdown, Text, ICS – ohne fremde Bibliothek.
 - **Drucken** mit Strg+P.
+- **.ics-Dateien direkt öffnen:** Als App installiert, öffnet Timeless .ics-Dateien per Doppelklick mit Import-Vorschau. Außerdem lassen sich .ics-Dateien oder JSON-Sicherungen ins Fenster ziehen.
+- **Monatsansicht** mit den Tagen des Vor- und Folgemonats, auch als Ziel zum Verschieben.
 - **Ebenen** zum Ein- und Ausblenden.
 - **Datendatei** (Chrome/Edge), JSON-Sicherung, ICS-Import mit Vorschau, Duplikatbereinigung, 30 Schritte Rückgängig.
 - **Deutsch / English** umschaltbar unter ⚙️.
